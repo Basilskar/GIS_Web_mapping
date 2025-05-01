@@ -61,7 +61,7 @@ Configure GeoServer with your spatial data sources before running the applicatio
 
 ## Documentation
 
-For more detailed information on features, customization options, and troubleshooting, see the [full documentation](docs/README.md).
+For more detailed information on features, customization options, and troubleshooting, see the [full documentation](https://docs.geoserver.org/).
 
 ## Contributing
 
